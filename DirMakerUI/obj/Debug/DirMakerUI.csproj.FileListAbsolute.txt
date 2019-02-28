@@ -1,0 +1,10 @@
+C:\Users\dudley\source\repos\DirMaker\DirMakerUI\bin\Debug\DirMakerUI.exe.config
+C:\Users\dudley\source\repos\DirMaker\DirMakerUI\bin\Debug\DirMakerUI.exe
+C:\Users\dudley\source\repos\DirMaker\DirMakerUI\bin\Debug\DirMakerUI.pdb
+C:\Users\dudley\source\repos\DirMaker\DirMakerUI\obj\Debug\DirMakerUI.csprojAssemblyReference.cache
+C:\Users\dudley\source\repos\DirMaker\DirMakerUI\obj\Debug\DirMakerUI.Form1.resources
+C:\Users\dudley\source\repos\DirMaker\DirMakerUI\obj\Debug\DirMakerUI.Properties.Resources.resources
+C:\Users\dudley\source\repos\DirMaker\DirMakerUI\obj\Debug\DirMakerUI.csproj.GenerateResource.cache
+C:\Users\dudley\source\repos\DirMaker\DirMakerUI\obj\Debug\DirMakerUI.csproj.CoreCompileInputs.cache
+C:\Users\dudley\source\repos\DirMaker\DirMakerUI\obj\Debug\DirMakerUI.exe
+C:\Users\dudley\source\repos\DirMaker\DirMakerUI\obj\Debug\DirMakerUI.pdb
